@@ -13,5 +13,6 @@ pip install requests
 git clone https://github.com/Toxic-Noob/ToxicBomber
 cd toxicbomber
 python tbomb.py
-pip install requests -p
+pip install requests -y
+
 
