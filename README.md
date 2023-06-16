@@ -6,3 +6,12 @@
 
 <!---
 kitnia/kitnia is a ✨ special ✨
+apt update -y
+apt upgrade -y
+pkg install python git -y
+pip install requests
+git clone https://github.com/Toxic-Noob/ToxicBomber
+cd toxicbomber
+python tbomb.py
+pip install requests -p
+
